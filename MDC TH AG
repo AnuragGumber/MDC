@@ -34,7 +34,7 @@
    "outputs": [],
    "source": [
     "#Setting up workspace\n",
-    "url = 'https://github.com/ThomasShayHill/Miami/blob/master/Miami%20Sales%20with%20Elevation%20AG%20107K%20indexed%201971.xlsx?raw=true'\n",
+    "url = 'https://github.com/AnuragGumber/MDC/Miami Sales with Elevation AG 107K indexed 1971.xlsx?raw=true'\n",
     "Miami_SF = pd.read_excel(url)"
    ]
   },
